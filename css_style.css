@@ -1,0 +1,110 @@
+body {
+    background-color:#2c7836ad;
+}
+
+.bd {
+    width: 1880;
+    height: 3;
+    background-color: white;
+}
+
+h1 {
+    color:blue;
+}
+
+h2 {
+    color:blue;
+}
+
+p {
+    color: white;
+}
+
+.ff2 {
+    color: white;
+    font-size: 20;
+}
+
+.pm1 {
+    font-size: 20;
+}
+
+.pm2 {
+    font-size: 20;
+}
+
+.pm3 {
+    position: absolute;
+
+    top: 440;
+    font-size: 20;
+}
+
+.pm4 {
+    position: absolute;
+    left: 30;
+    top: 470;
+    font-size: 20;
+    color: yellow;
+}
+
+.pm5 {
+    position: absolute;
+    left: 60;
+    top: 490;
+    font-size: 20;
+}
+
+.pm6
+{
+    position: absolute;
+    left: 50;
+    top: 1320;
+    font-size: 20;
+}
+
+
+.pm7
+{
+    position: absolute;
+    left:430;
+    font-size: 20;
+    top: 1320;
+}
+.im1 
+{
+    position: absolute;
+    left: 150;
+    top: 1120;
+}
+
+.im2
+{
+    position: absolute;
+    left: 520;
+    top: 1120;
+}
+
+
+.hm1
+{
+    position: absolute;
+
+    top: 1030;
+}
+
+.hm2
+{
+    position: absolute;
+
+    top: 1370;
+}
+
+.ff1
+{
+    position: absolute;
+    left: 30;
+    top: 1410;
+    color: white;
+    font-size: 20;
+}
